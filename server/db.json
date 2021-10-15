@@ -16,5 +16,23 @@
     "address": "Taj Road",
     "price": 169000,
     "imageURL" : "https://robbreport.com/wp-content/uploads/2013/06/831971.jpg?w=943"
+  },
+  {
+    "id":4,
+    "address": "432 Malory Pl",
+    "price": 250000,
+    "imageURL":"https://images.pexels.com/photos/1396132/pexels-photo-1396132.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+  },
+  {
+    "id":5,
+    "address": "102 Greenlawn Dr",
+    "price": 152900,
+    "imageURL":"https://hgtvhome.sndimg.com/content/dam/images/hgtv/fullset/2019/2/7/3/BP_HHMTN310_Bolden_home-exterior_AFTER_0132.jpg.rend.hgtvcom.966.644.suffix/1549585070420.jpeg"
+  },
+  {
+    "id":6,
+    "address": "4387 Tumbleweed Ln",
+    "price": 998000,
+    "imageURL":"https://charlotteaxios-charlotteagenda.netdna-ssl.com/wp-content/uploads/2021/10/1609-Belvedere-Ave.jpeg"
   }
 ]

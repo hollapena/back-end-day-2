@@ -1,6 +1,6 @@
 const houses = require('./db.json')
 
-let globalID = 4
+let globalID = 7
 
 module.exports = {
     getHouses: (req,res) => {
